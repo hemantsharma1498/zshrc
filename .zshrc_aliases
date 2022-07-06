@@ -3,6 +3,8 @@
 
 alias o="xdg-open"
 alias ls="ls -1la --color=auto"
-alias h="cd ~"
+alias h="cd ~ | clear"
 alias c="clear"
 alias curl="noglob curl"
+alias bk="cd .."
+alias cat="bat"
